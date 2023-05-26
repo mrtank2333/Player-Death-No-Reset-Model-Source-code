@@ -22,7 +22,7 @@ namespace GTA
             this.Start = Game.GameTime;
             this.Time = ms;
         }
-
+//https://juejin.cn/post/7215809451911299128
         public bool IsOverTime
         {
             get
