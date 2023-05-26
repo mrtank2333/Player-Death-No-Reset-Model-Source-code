@@ -23,6 +23,7 @@ namespace GTA
             this.Time = ms;
         }
 //https://juejin.cn/post/7215809451911299128
+        //https://www.jb51.net/article/207340.htm
         public bool IsOverTime
         {
             get
